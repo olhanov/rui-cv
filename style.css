@@ -1,0 +1,144 @@
+body {
+  background: #f6f6fa;
+  padding: 40px 40px;
+  font-family: "Montserrat", sans-serif;
+}
+.my-info {
+    margin-bottom: 40px;
+}
+.my-cv {
+  color: #e00f0f;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 55px;
+  margin-top: 0;
+  margin-bottom: 12px;
+  text-decoration: underline;
+  text-align:center;
+}
+.my-desc {
+    color: #080808;
+  font-size: 14px;
+  font-weight: 400;
+  line-height:  24px;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.education {
+    margin-bottom: 40px;
+}
+
+ul {
+    list-style-type: '- ';
+}
+
+
+.education-title {
+  color: #240fe0;
+  font-size: 16px;
+  font-weight: 400;
+  line-height:  24px;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+
+
+.education-item {
+   color: #000;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.education-link {
+    color: #240fe0;
+  font-size: 14px;
+  font-weight: 400;
+  line-height:  24px;
+  margin-top: 0;
+  margin-bottom: 12px;
+  text-decoration-line: underline;
+}
+
+.experience {
+    margin-bottom: 40px;
+}
+
+.experience-title {
+    color: #240fe0;
+  font-size: 16px;
+  font-weight: 400;
+  line-height:  24px;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.experience-item {
+    color: #000;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.experience-link {
+    color: #240fe0;
+  font-size: 14px;
+  font-weight: 400;
+  line-height:  24px;
+  margin-top: 0;
+  margin-bottom: 12px;
+  text-decoration-line: underline;
+}
+
+.avaibility {
+    margin-bottom: 40px;
+}
+
+.avaibility-title {
+    color: #240fe0;
+  font-size: 16px;
+  font-weight: 400;
+  line-height:  24px;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+table {
+   border: 1px solid grey;
+   border-collapse: collapse;
+    width: 1000px;
+    text-align: center;
+}
+
+th {
+   border: 1px solid grey;
+   padding: 10px 15px;
+}
+
+
+td {
+   border: 1px solid grey;
+   padding: 10px 15px;
+}
+
+.foto-and-descr {
+    display: flex;
+    
+}
+
+.my-foto-title {
+    color: #240fe0;
+  font-size: 16px;
+  font-weight: 400;
+  line-height:  24px;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.my-foto-descr {
+    padding: 80px 40px 80px 40px;
+}
